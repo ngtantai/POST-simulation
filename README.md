@@ -8,7 +8,6 @@ Primary: JDK (Java development kit)
 Optional: IDK (Integrated Developing Environment)
 
 Installing
-
 The software was written in Java programming language.
 Primary installation: JDK (Java development kit)
 How to install it: https://www.ntu.edu.sg/home/ehchua/programming/howto/NetBeans_HowTo.html
