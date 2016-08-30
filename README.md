@@ -3,9 +3,6 @@ Point of Sale Terminal Simulation
 
 The software is a simulation of the POST system which shall be acted as a cash register system. The system runs the terminal to simulate all the processes starting from the begin state of the closed store to the end state of printing an invoice to customer.The system inherits the properties of a cash register system which includes a bar code scanner (UPC codes) of the products, a cash drawer and a credit card scanner.
 
-Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisities
 Primary: JDK (Java development kit)
 Optional: IDK (Integrated Developing Environment)
